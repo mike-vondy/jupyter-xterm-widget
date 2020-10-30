@@ -1,0 +1,6 @@
+recursive-include jupyter_xterm_widget/static *.*
+include jupyter-xterm-widget.json
+
+include LICENSE
+include setup.py
+include pyproject.toml
